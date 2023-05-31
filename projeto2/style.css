@@ -1,0 +1,11 @@
+div {
+  position: relative;
+  display: inline-block;
+  position: absolute;
+}
+
+
+img {
+   width: 100%;
+   position:static;
+}
